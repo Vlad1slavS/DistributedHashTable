@@ -235,7 +235,7 @@ public class CustomNode extends Node {
 
 ---
 
-## 🐛 Troubleshooting
+## ⚡️ Troubleshooting
 
 ### Common Issues
 
