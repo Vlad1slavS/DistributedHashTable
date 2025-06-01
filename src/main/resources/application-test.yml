@@ -1,0 +1,16 @@
+spring:
+  data:
+    redis:
+      host: localhost
+      timeout: 1000ms
+      port: 6379
+
+dht:
+  replication-factor: 2
+  virtual-nodes: 50
+  initial-nodes: []
+
+logging:
+  level:
+    com.dht: DEBUG
+    org.springframework: WARN
