@@ -35,7 +35,7 @@
 
 ## 🏗️ Архитектура
 
-![Распределённая хеш-таблица](https://github.com/Vlad1slavS/DistributedHashTable/blob/main/images/ruImage.png)
+<img src="https://github.com/Vlad1slavS/DistributedHashTable/blob/main/images/ruImg.png" alt="Distributed Hash Table Architecture" width="500"/>
 
 ---
 

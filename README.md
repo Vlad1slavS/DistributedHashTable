@@ -35,7 +35,8 @@
 
 ## 🏗️ Architecture
 
-![Distributed Hash Table Architecture](https://github.com/Vlad1slavS/DistributedHashTable/blob/main/images/engImg.png)
+<img src="https://github.com/Vlad1slavS/DistributedHashTable/blob/main/images/engImg.png" alt="Distributed Hash Table Architecture" width="500"/>
+
 
 ---
 
