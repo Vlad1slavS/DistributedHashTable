@@ -1,4 +1,8 @@
-# 🌐 Распределённая хеш-таблица (DHT) 
+# 🌐 Распределённая хеш-таблица (DHT)
+
+<p align="center">
+  <strong>Языки:</strong> <a href="README.md">🇺🇸 English</a> | <a href="README.ru.md">🇷🇺 Русский</a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java" alt="Java 17">
