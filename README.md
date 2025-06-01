@@ -1,4 +1,4 @@
-# 🌐 Distributed Hash Table (DHT)
+<h1 align="center">🌐 Distributed Hash Table (DHT)</h1>
 
 <p align="center">
   <strong>Языки:</strong> <a href="README.md">🇺🇸 English</a> | <a href="README.ru.md">🇷🇺 Русский</a>
